@@ -4,7 +4,7 @@
 
 **Sea × Codex Hackathon 2026**
 
-🏆 **Winner of the Sea × Codex Hackathon 2026** — featured in [Tech in Asia: "Sea, OpenAI unite Singapore's AI builders for Codex hackathon"](https://www.techinasia.com/sea-openai-unite-singapores-ai-builders-codex-hackathon)
+🏆 **3rd Place of the Sea × OpenAI Codex Hackathon 2026** — featured in [Tech in Asia: "Sea, OpenAI unite Singapore's AI builders for Codex hackathon"](https://www.techinasia.com/sea-openai-unite-singapores-ai-builders-codex-hackathon)
 
 ---
 
