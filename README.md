@@ -2,8 +2,6 @@
 
 > An AI backstage producer that watches buyer chat, answers grounded product questions, escalates uncertainty to the host, flags policy risks, and coaches the seller — all in real time.
 
-**Sea × Codex Hackathon 2026**
-
 🏆 **3rd Place of the Sea × OpenAI Codex Hackathon 2026** — featured in [Tech in Asia: "Sea, OpenAI unite Singapore's AI builders for Codex hackathon"](https://www.techinasia.com/sea-openai-unite-singapores-ai-builders-codex-hackathon)
 
 ---
